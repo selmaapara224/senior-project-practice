@@ -1,1 +1,1 @@
-print("My name is Selma Apara\n I am a Computer Science Major with interest in Cybersecurity.\n I hope to develop the skill of managing and developing a long term project.")
+print(" My name is Selma Apara\n I am a Computer Science Major with interest in Cybersecurity.\n I hope to develop the skill of managing and developing a long term project.")
